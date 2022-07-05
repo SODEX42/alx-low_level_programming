@@ -25,5 +25,3 @@ int print_sign(int n)
 	}
 	return (numz);
 }
-Footer
-© 2022 GitHub, Inc.
