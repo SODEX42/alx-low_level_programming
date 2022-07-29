@@ -80,3 +80,6 @@ while (*str && *str == '0')
 str++;
 return (str);
 }
+
+/**
+*/
