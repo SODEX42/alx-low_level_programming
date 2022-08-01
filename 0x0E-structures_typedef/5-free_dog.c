@@ -13,5 +13,3 @@ free(d->owner);
 free(d->name);
 free(d);
 }
-Footer
-© 2022 GitHub, Inc.
